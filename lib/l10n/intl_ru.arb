@@ -1,0 +1,10 @@
+{
+    "@@locale": "ru",
+    "CreateAccount": "Создать Аккаунт",
+    "Enteremail": "Ввести почту",
+    "Createpassword": "Создать пароль",
+    "Register": "Зарегистрироваться",
+    "SelectLanguage": "Выбрать Язык",
+    "Or": "Или",
+    "Login": "Войти"
+}

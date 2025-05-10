@@ -1,0 +1,10 @@
+{
+    "@@locale": "en",
+    "CreateAccount": "Create Account",
+    "Enteremail": "Enter email",
+    "Createpassword": "Create password",
+    "Register": "Register",
+    "SelectLanguage": "Select Language",
+    "Or": "Or",
+    "Login": "Login"
+}

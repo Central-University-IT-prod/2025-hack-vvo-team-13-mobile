@@ -1,0 +1,15 @@
+#!/bin/sh
+# This is a generated file; do not edit or check into version control.
+export "FLUTTER_ROOT=/Users/qwaaantex/Documents/flutter"
+export "FLUTTER_APPLICATION_PATH=/Users/qwaaantex/Documents/flutter_projects/JCity"
+export "COCOAPODS_PARALLEL_CODE_SIGN=true"
+export "FLUTTER_TARGET=/Users/qwaaantex/Documents/flutter_projects/JCity/lib/main.dart"
+export "FLUTTER_BUILD_DIR=build"
+export "FLUTTER_BUILD_NAME=1.0.0"
+export "FLUTTER_BUILD_NUMBER=1"
+export "FLUTTER_DEV_DEPENDENCIES_ENABLED=true"
+export "DART_DEFINES=RkxVVFRFUl9WRVJTSU9OPTMuMzIuMC0xLjAucHJlLjE0Ng==,RkxVVFRFUl9DSEFOTkVMPW1hc3Rlcg==,RkxVVFRFUl9HSVRfVVJMPWh0dHBzOi8vZ2l0aHViLmNvbS9mbHV0dGVyL2ZsdXR0ZXIuZ2l0,RkxVVFRFUl9GUkFNRVdPUktfUkVWSVNJT049ODEwMDI0ZjNjOQ==,RkxVVFRFUl9FTkdJTkVfUkVWSVNJT049ODEwMDI0ZjNjOQ==,RkxVVFRFUl9EQVJUX1ZFUlNJT049My45LjAgKGJ1aWxkIDMuOS4wLTMxLjAuZGV2KQ=="
+export "DART_OBFUSCATION=false"
+export "TRACK_WIDGET_CREATION=true"
+export "TREE_SHAKE_ICONS=false"
+export "PACKAGE_CONFIG=/Users/qwaaantex/Documents/flutter_projects/JCity/.dart_tool/package_config.json"
